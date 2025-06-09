@@ -9,25 +9,32 @@ ____________
 🔧 Ghaim includes a wide range of features and functionality.
 This README highlights only the main features and key screenshots to keep things concise.
 More details will be added as development continues.
+📝 Note
+📛 The app’s name has been updated to غيم.
+🔆 The app icon has also been changed to the new logo for better branding and recognition.
+
+
 ____________
 📸 Screenshots
 <p align="center">
+  <img src="social%20screens/12.png" width="110" alt="Screenshot 12" />
   <img src="social%20screens/1.png" width="110" alt="Screenshot 1" />
   <img src="social%20screens/2.png" width="110" alt="Screenshot 2" />
   <img src="social%20screens/3.png" width="110" alt="Screenshot 3" />
-  <img src="social%20screens/4.png" width="110" alt="Screenshot 4" />
 </p>
 <p align="center">
+  <img src="social%20screens/4.png" width="110" alt="Screenshot 4" />
   <img src="social%20screens/5.png" width="110" alt="Screenshot 5" />
   <img src="social%20screens/6.png" width="110" alt="Screenshot 6" />
   <img src="social%20screens/7.png" width="110" alt="Screenshot 7" />
-  <img src="social%20screens/8.png" width="110" alt="Screenshot 8" />
 </p>
 <p align="center">
+  <img src="social%20screens/8.png" width="110" alt="Screenshot 8" />
   <img src="social%20screens/9.png" width="110" alt="Screenshot 9" />
   <img src="social%20screens/10.png" width="110" alt="Screenshot 10" />
   <img src="social%20screens/11.png" width="110" alt="Screenshot 11" />
 </p>
+
 ____________
 :
 
