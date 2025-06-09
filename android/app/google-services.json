@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "962098212449",
+    "project_id": "sanad-f87d1",
+    "storage_bucket": "sanad-f87d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962098212449:android:12b5efb4666ea6b8da0420",
+        "android_client_info": {
+          "package_name": "com.example.chatting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeqDbrnCRbQto3cD7x_EEuTfDiArthUYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962098212449:android:dd52a7c40b9c77c1da0420",
+        "android_client_info": {
+          "package_name": "com.example.social_media"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeqDbrnCRbQto3cD7x_EEuTfDiArthUYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
