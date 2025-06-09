@@ -9,6 +9,8 @@ ____________
 🔧 Ghaim includes a wide range of features and functionality.
 This README highlights only the main features and key screenshots to keep things concise.
 More details will be added as development continues.
+
+
 📝 Note
 📛 The app’s name has been updated to غيم.
 🔆 The app icon has also been changed to the new logo for better branding and recognition.
