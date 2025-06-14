@@ -19,14 +19,16 @@ More details will be added as development continues.
 ____________
 📸 Screenshots
 <p align="center">
-  <img src="social media screens/12.png" width="110" alt="Screenshot 12" />
+  <img src="social media screens/12.png" width="130" alt="Screenshot 12" />
   <img src="social media screens/1.png" width="110" alt="Screenshot 1" />
   <img src="social media screens/2.png" width="110" alt="Screenshot 2" />
   <img src="social media screens/3.png" width="110" alt="Screenshot 3" />
 </p>
 <p align="center">
   <img src="social media screens/4.png" width="110" alt="Screenshot 4" />
-  <img src="social media screens/5.png" width="110" alt="Screenshot 5" />
+  <img src="social media screens/5.png" width="110" alt="Screenshot 5" />  <img src="social media screens/14.png" width="110" alt="Screenshot 5" />
+  <img src="social media screens/15.png" width="110" alt="Screenshot 5" />
+
   <img src="social media screens/6.png" width="110" alt="Screenshot 6" />
   <img src="social media screens/7.png" width="110" alt="Screenshot 7" />
 </p>
